@@ -1,0 +1,23 @@
+{
+  "name": "online-max",
+  "version": "1.0.0",
+  "description": "Calculate maximum online (piece-by-piece)",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js | faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onlinestats/online-max.git"
+  },
+  "author": "Anton Zemlyansky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onlinestats/online-max/issues"
+  },
+  "homepage": "https://github.com/onlinestats/online-max#readme",
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^4.9.0"
+  }
+}
