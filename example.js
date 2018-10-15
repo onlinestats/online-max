@@ -1,10 +1,4 @@
-# online-max
-Find maximum processing values one by one (online algorithm)
-
-## Usage
-
-```
-const Max = require('online-max')
+const Max = require('.')
 const max = Max()
 
 // Direct call
@@ -22,4 +16,4 @@ max2([3.2, 2, 4])
 // Keep in mind - we already declared max2, so we just update it
 // Maximum is still 5
 console.log(max2.value) // -> 5!
-```
+

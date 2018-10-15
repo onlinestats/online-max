@@ -1,6 +1,6 @@
 {
   "name": "online-max",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculate maximum online (piece-by-piece)",
   "main": "index.js",
   "scripts": {
